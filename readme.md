@@ -4,3 +4,4 @@
 
 * [aiporn.tw](https://aiporn.tw)
 * [aifuck.cc](https://aifuck.cc)
+* [aifun.wiki](https://aifun.wiki)
